@@ -20,9 +20,20 @@ export default function CreditsScreen() {
 
       <View style={styles.creditContainer}>
         <ThemedText type="subtitle" style={styles.name}>
+          Kang Mu Yoo
+        </ThemedText>
+        <ThemedText style={styles.role}>
+          UBC Faculty of Medicine Class of 2025
+        </ThemedText>
+      </View>
+
+      <View style={styles.creditContainer}>
+        <ThemedText type="subtitle" style={styles.name}>
           Adel Akbar
         </ThemedText>
-        <ThemedText style={styles.role}>Software Engineer</ThemedText>
+        <ThemedText style={styles.role}>
+          Software Engineer | UBC BSc. Class of 2022
+        </ThemedText>
         <TouchableOpacity
           onPress={() =>
             Linking.openURL("https://www.linkedin.com/in/adelakbar")
@@ -35,9 +46,12 @@ export default function CreditsScreen() {
 
       <View style={styles.creditContainer}>
         <ThemedText type="subtitle" style={styles.name}>
-          Kang Moo Yoo
+          Dr. Kalina Popova & Dr. Nav Chima
         </ThemedText>
-        <ThemedText style={styles.role}>Med Student</ThemedText>
+        <ThemedText style={styles.role}>
+          UBC Anesthesiology Program Directors, Department of Anesthesiology,
+          Pharmacology & Therapeutics
+        </ThemedText>
       </View>
     </ThemedView>
   );

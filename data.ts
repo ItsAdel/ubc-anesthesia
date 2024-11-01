@@ -3285,7 +3285,7 @@ export const modules: Module[] = [
         content: [
           {
             type: "header",
-            content: "", // Placeholder for header
+            content: "Question 1", // Placeholder for header
           },
           {
             type: "image",
@@ -3298,7 +3298,7 @@ export const modules: Module[] = [
         content: [
           {
             type: "header",
-            content: "", // Placeholder for header
+            content: "Question 1 - Solved", // Placeholder for header
           },
           {
             type: "image",
@@ -3311,7 +3311,8 @@ export const modules: Module[] = [
         content: [
           {
             type: "header",
-            content: "", // Placeholder for header
+            content:
+              "Common causes of hypoxemia and their responses to supplemental oxygen", // Placeholder for header
           },
           {
             type: "image",
@@ -4056,7 +4057,7 @@ export const modules: Module[] = [
         content: [
           {
             type: "header",
-            content: "",
+            content: "Risk estimate based on RCRI",
           },
           {
             type: "text",
@@ -4158,7 +4159,7 @@ export const modules: Module[] = [
         content: [
           {
             type: "header",
-            content: "",
+            content: "Management of perioperative cardiovascular medications",
           },
           {
             type: "text",
@@ -4656,6 +4657,10 @@ export const modules: Module[] = [
         id: "61",
         content: [
           {
+            type: "header",
+            content: "Question 1",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/4/17.png"),
           },
@@ -4664,6 +4669,10 @@ export const modules: Module[] = [
       {
         id: "62",
         content: [
+          {
+            type: "header",
+            content: "Question 1 - Solved",
+          },
           {
             type: "image",
             content: require("@/assets/images/modules/4/18.png"),
@@ -4674,6 +4683,10 @@ export const modules: Module[] = [
         id: "63",
         content: [
           {
+            type: "header",
+            content: "Question 2",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/4/19.png"),
           },
@@ -4682,6 +4695,10 @@ export const modules: Module[] = [
       {
         id: "64",
         content: [
+          {
+            type: "header",
+            content: "Question 2 - Solved",
+          },
           {
             type: "image",
             content: require("@/assets/images/modules/4/20.png"),
@@ -4692,6 +4709,10 @@ export const modules: Module[] = [
         id: "65",
         content: [
           {
+            type: "header",
+            content: "Question 3",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/4/21.png"),
           },
@@ -4700,6 +4721,10 @@ export const modules: Module[] = [
       {
         id: "66",
         content: [
+          {
+            type: "header",
+            content: "Question 3 - Solved",
+          },
           {
             type: "image",
             content: require("@/assets/images/modules/4/22.png"),
@@ -4710,6 +4735,10 @@ export const modules: Module[] = [
         id: "67",
         content: [
           {
+            type: "header",
+            content: "Question 4",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/4/23.png"),
           },
@@ -4718,6 +4747,10 @@ export const modules: Module[] = [
       {
         id: "68",
         content: [
+          {
+            type: "header",
+            content: "Question 4 - Solved",
+          },
           {
             type: "image",
             content: require("@/assets/images/modules/4/24.png"),
@@ -4796,6 +4829,10 @@ export const modules: Module[] = [
         id: "4",
         content: [
           {
+            type: "header",
+            content: "Case 1 - Question",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/5/1.png"),
           },
@@ -4805,6 +4842,10 @@ export const modules: Module[] = [
         id: "5",
         content: [
           {
+            type: "header",
+            content: "Case 1 - Answer",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/5/2.png"),
           },
@@ -4813,6 +4854,10 @@ export const modules: Module[] = [
       {
         id: "6",
         content: [
+          {
+            type: "header",
+            content: "Case 1 - Explanation",
+          },
           {
             type: "text",
             content: "Correct! The best answer is D!",
@@ -4922,6 +4967,10 @@ export const modules: Module[] = [
         id: "11",
         content: [
           {
+            type: "header",
+            content: "Back to the case",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/5/3.png"),
           },
@@ -4945,6 +4994,10 @@ export const modules: Module[] = [
         id: "13",
         content: [
           {
+            type: "header",
+            content: "Landmark Anatomy",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/5/4.png"),
           },
@@ -4953,6 +5006,10 @@ export const modules: Module[] = [
       {
         id: "14",
         content: [
+          {
+            type: "header",
+            content: "Landmark Anatomy 2",
+          },
           {
             type: "image",
             content: require("@/assets/images/modules/5/5.png"),
@@ -5007,6 +5064,10 @@ export const modules: Module[] = [
         id: "18",
         content: [
           {
+            type: "header",
+            content: "Local Anesthetic Characteristics",
+          },
+          {
             type: "image",
             content: require("@/assets/images/modules/5/6.png"),
           },
@@ -5029,6 +5090,10 @@ export const modules: Module[] = [
       {
         id: "20",
         content: [
+          {
+            type: "header",
+            content: "Brachial Plexus Anatomy Image",
+          },
           {
             type: "image",
             content: require("@/assets/images/modules/5/7.png"),
@@ -5313,7 +5378,7 @@ export const modules: Module[] = [
       {
         id: "15",
         content: [
-          { type: "header", content: "Case" },
+          { type: "header", content: "Question 1" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/1.png"),
@@ -5323,7 +5388,7 @@ export const modules: Module[] = [
       {
         id: "16",
         content: [
-          { type: "header", content: "Case Solved" },
+          { type: "header", content: "Question 1 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/2.png"),
@@ -5333,7 +5398,7 @@ export const modules: Module[] = [
       {
         id: "17",
         content: [
-          { type: "header", content: "Case" },
+          { type: "header", content: "Question 1 - Explanation" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/3.png"),
@@ -5391,10 +5456,7 @@ export const modules: Module[] = [
       {
         id: "20",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 2" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/4.png"),
@@ -5404,10 +5466,7 @@ export const modules: Module[] = [
       {
         id: "21",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 2 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/5.png"),
@@ -5417,10 +5476,7 @@ export const modules: Module[] = [
       {
         id: "22",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 2 - Explanation" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/6.png"),
@@ -5430,10 +5486,7 @@ export const modules: Module[] = [
       {
         id: "23",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 3" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/7.png"),
@@ -5443,10 +5496,7 @@ export const modules: Module[] = [
       {
         id: "24",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 3 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/8.png"),
@@ -5456,10 +5506,7 @@ export const modules: Module[] = [
       {
         id: "25",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 4" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/9.png"),
@@ -5469,10 +5516,7 @@ export const modules: Module[] = [
       {
         id: "26",
         content: [
-          {
-            type: "header",
-            content: "Case",
-          },
+          { type: "header", content: "Question 4 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/10.png"),
@@ -5496,6 +5540,7 @@ export const modules: Module[] = [
       {
         id: "28",
         content: [
+          { type: "header", content: "Question 5" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/11.png"),
@@ -5505,6 +5550,7 @@ export const modules: Module[] = [
       {
         id: "29",
         content: [
+          { type: "header", content: "Question 5 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/12.png"),
@@ -5556,6 +5602,7 @@ export const modules: Module[] = [
       {
         id: "33",
         content: [
+          { type: "header", content: "Our Case - GCS" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/13.png"),
@@ -5565,6 +5612,7 @@ export const modules: Module[] = [
       {
         id: "34",
         content: [
+          { type: "header", content: "Question 6" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/14.png"),
@@ -5574,6 +5622,7 @@ export const modules: Module[] = [
       {
         id: "35",
         content: [
+          { type: "header", content: "Question 6 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/15.png"),
@@ -5583,6 +5632,7 @@ export const modules: Module[] = [
       {
         id: "36",
         content: [
+          { type: "header", content: "Primary Survey - Imaging" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/16.png"),
@@ -5592,6 +5642,7 @@ export const modules: Module[] = [
       {
         id: "37",
         content: [
+          { type: "header", content: "Question 7" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/17.png"),
@@ -5601,6 +5652,7 @@ export const modules: Module[] = [
       {
         id: "38",
         content: [
+          { type: "header", content: "Question 7 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/18.png"),
@@ -5610,6 +5662,7 @@ export const modules: Module[] = [
       {
         id: "39",
         content: [
+          { type: "header", content: "Question 7 - Explanation" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/19.png"),
@@ -5619,6 +5672,7 @@ export const modules: Module[] = [
       {
         id: "40",
         content: [
+          { type: "header", content: "Question 8" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/20.png"),
@@ -5628,6 +5682,7 @@ export const modules: Module[] = [
       {
         id: "41",
         content: [
+          { type: "header", content: "Question 8 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/21.png"),
@@ -5637,6 +5692,7 @@ export const modules: Module[] = [
       {
         id: "42",
         content: [
+          { type: "header", content: "Question 9" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/22.png"),
@@ -5646,6 +5702,7 @@ export const modules: Module[] = [
       {
         id: "43",
         content: [
+          { type: "header", content: "Question 9 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/23.png"),
@@ -5655,6 +5712,7 @@ export const modules: Module[] = [
       {
         id: "44",
         content: [
+          { type: "header", content: "Question 10" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/24.png"),
@@ -5664,6 +5722,7 @@ export const modules: Module[] = [
       {
         id: "45",
         content: [
+          { type: "header", content: "Question 10 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/25.png"),
@@ -5673,6 +5732,7 @@ export const modules: Module[] = [
       {
         id: "46",
         content: [
+          { type: "header", content: "Question 11" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/26.png"),
@@ -5682,6 +5742,7 @@ export const modules: Module[] = [
       {
         id: "47",
         content: [
+          { type: "header", content: "Question 11 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/27.png"),
@@ -5728,6 +5789,7 @@ export const modules: Module[] = [
       {
         id: "49",
         content: [
+          { type: "header", content: "Question 12" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/29.png"),
@@ -5737,6 +5799,7 @@ export const modules: Module[] = [
       {
         id: "50",
         content: [
+          { type: "header", content: "Question 12 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/30.png"),
@@ -5746,6 +5809,7 @@ export const modules: Module[] = [
       {
         id: "51",
         content: [
+          { type: "header", content: "Question 13" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/31.png"),
@@ -5755,6 +5819,7 @@ export const modules: Module[] = [
       {
         id: "52",
         content: [
+          { type: "header", content: "Question 13 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/32.png"),
@@ -5764,6 +5829,7 @@ export const modules: Module[] = [
       {
         id: "53",
         content: [
+          { type: "header", content: "Question 14" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/33.png"),
@@ -5773,6 +5839,7 @@ export const modules: Module[] = [
       {
         id: "54",
         content: [
+          { type: "header", content: "Question 14 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/34.png"),
@@ -5782,6 +5849,7 @@ export const modules: Module[] = [
       {
         id: "55",
         content: [
+          { type: "header", content: "Question 15" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/35.png"),
@@ -5791,6 +5859,7 @@ export const modules: Module[] = [
       {
         id: "56",
         content: [
+          { type: "header", content: "Question 15 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/36.png"),
@@ -5800,6 +5869,7 @@ export const modules: Module[] = [
       {
         id: "57",
         content: [
+          { type: "header", content: "Question 16" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/37.png"),
@@ -5809,6 +5879,7 @@ export const modules: Module[] = [
       {
         id: "58",
         content: [
+          { type: "header", content: "Question 16 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/38.png"),
@@ -5818,6 +5889,7 @@ export const modules: Module[] = [
       {
         id: "59",
         content: [
+          { type: "header", content: "Question 17" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/39.png"),
@@ -5827,6 +5899,7 @@ export const modules: Module[] = [
       {
         id: "60",
         content: [
+          { type: "header", content: "Question 17 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/40.png"),
@@ -5836,6 +5909,7 @@ export const modules: Module[] = [
       {
         id: "61",
         content: [
+          { type: "header", content: "Question 18" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/41.png"),
@@ -5845,6 +5919,7 @@ export const modules: Module[] = [
       {
         id: "62",
         content: [
+          { type: "header", content: "Question 18 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/42.png"),
@@ -5854,6 +5929,7 @@ export const modules: Module[] = [
       {
         id: "63",
         content: [
+          { type: "header", content: "Question 19" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/43.png"),
@@ -5863,6 +5939,7 @@ export const modules: Module[] = [
       {
         id: "64",
         content: [
+          { type: "header", content: "Question 19 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/44.png"),
@@ -5872,6 +5949,7 @@ export const modules: Module[] = [
       {
         id: "65",
         content: [
+          { type: "header", content: "Question 20" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/45.png"),
@@ -5881,6 +5959,7 @@ export const modules: Module[] = [
       {
         id: "66",
         content: [
+          { type: "header", content: "Question 20 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/46.png"),
@@ -5890,6 +5969,7 @@ export const modules: Module[] = [
       {
         id: "67",
         content: [
+          { type: "header", content: "Acute Transfusion Reactions" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/47.png"),
@@ -5899,6 +5979,7 @@ export const modules: Module[] = [
       {
         id: "68",
         content: [
+          { type: "header", content: "Acute Transfusion Reactions" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/48.png"),
@@ -5908,6 +5989,7 @@ export const modules: Module[] = [
       {
         id: "69",
         content: [
+          { type: "header", content: "Question 21" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/49.png"),
@@ -5917,6 +5999,7 @@ export const modules: Module[] = [
       {
         id: "70",
         content: [
+          { type: "header", content: "Question 21 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/50.png"),
@@ -5926,6 +6009,7 @@ export const modules: Module[] = [
       {
         id: "71",
         content: [
+          { type: "header", content: "Question 22" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/51.png"),
@@ -5935,6 +6019,7 @@ export const modules: Module[] = [
       {
         id: "72",
         content: [
+          { type: "header", content: "Question 22 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/52.png"),
@@ -5944,6 +6029,7 @@ export const modules: Module[] = [
       {
         id: "73",
         content: [
+          { type: "header", content: "Question 22 - Explanation" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/53.png"),
@@ -5953,6 +6039,7 @@ export const modules: Module[] = [
       {
         id: "74",
         content: [
+          { type: "header", content: "Trauma Airway Management" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/54.png"),
@@ -5962,6 +6049,7 @@ export const modules: Module[] = [
       {
         id: "75",
         content: [
+          { type: "header", content: "Definitive Vs Non-Definitive Airways" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/55.png"),
@@ -5971,6 +6059,7 @@ export const modules: Module[] = [
       {
         id: "76",
         content: [
+          { type: "header", content: "Trauma Airway Management" },
           {
             type: "image",
             content: require("@/assets/images/modules/6/56.png"),
@@ -5980,6 +6069,7 @@ export const modules: Module[] = [
       {
         id: "77",
         content: [
+          { type: "header", content: "Case Resolution" },
           {
             type: "text",
             content:
@@ -6181,6 +6271,7 @@ export const modules: Module[] = [
       {
         id: "12",
         content: [
+          { type: "header", content: "Pediatric Airway - Intubation Table" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/1.png"),
@@ -6284,6 +6375,7 @@ export const modules: Module[] = [
       {
         id: "19",
         content: [
+          { type: "header", content: "Pediatric Physiology - Hematology" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/2.png"),
@@ -6532,6 +6624,7 @@ export const modules: Module[] = [
       {
         id: "35",
         content: [
+          { type: "header", content: "Question 1" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/3.png"),
@@ -6541,6 +6634,7 @@ export const modules: Module[] = [
       {
         id: "36",
         content: [
+          { type: "header", content: "Question 1 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/4.png"),
@@ -6583,6 +6677,7 @@ export const modules: Module[] = [
       {
         id: "39",
         content: [
+          { type: "header", content: "Question 2" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/5.png"),
@@ -6592,6 +6687,7 @@ export const modules: Module[] = [
       {
         id: "40",
         content: [
+          { type: "header", content: "Question 2 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/6.png"),
@@ -6606,6 +6702,7 @@ export const modules: Module[] = [
       {
         id: "41",
         content: [
+          { type: "header", content: "Question 3" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/7.png"),
@@ -6615,6 +6712,7 @@ export const modules: Module[] = [
       {
         id: "42",
         content: [
+          { type: "header", content: "Question 3 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/8.png"),
@@ -6657,6 +6755,7 @@ export const modules: Module[] = [
       {
         id: "45",
         content: [
+          { type: "header", content: "Question 4" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/9.png"),
@@ -6666,6 +6765,7 @@ export const modules: Module[] = [
       {
         id: "46",
         content: [
+          { type: "header", content: "Question 4 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/10.png"),
@@ -6680,6 +6780,7 @@ export const modules: Module[] = [
       {
         id: "47",
         content: [
+          { type: "header", content: "Question 5" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/11.png"),
@@ -6689,6 +6790,7 @@ export const modules: Module[] = [
       {
         id: "48",
         content: [
+          { type: "header", content: "Question 5 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/12.png"),
@@ -6703,6 +6805,7 @@ export const modules: Module[] = [
       {
         id: "49",
         content: [
+          { type: "header", content: "Question 6" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/13.png"),
@@ -6712,6 +6815,7 @@ export const modules: Module[] = [
       {
         id: "50",
         content: [
+          { type: "header", content: "Question 6 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/14.png"),
@@ -6726,6 +6830,7 @@ export const modules: Module[] = [
       {
         id: "51",
         content: [
+          { type: "header", content: "Question 7" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/15.png"),
@@ -6735,6 +6840,7 @@ export const modules: Module[] = [
       {
         id: "52",
         content: [
+          { type: "header", content: "Question 7 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/16.png"),
@@ -6749,6 +6855,7 @@ export const modules: Module[] = [
       {
         id: "53",
         content: [
+          { type: "header", content: "Question 8" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/17.png"),
@@ -6758,6 +6865,7 @@ export const modules: Module[] = [
       {
         id: "54",
         content: [
+          { type: "header", content: "Question 8 - Answer" },
           {
             type: "image",
             content: require("@/assets/images/modules/9/18.png"),
@@ -6772,6 +6880,7 @@ export const modules: Module[] = [
       {
         id: "55",
         content: [
+          { type: "header", content: "Module Complete" },
           {
             type: "text",
             content:
