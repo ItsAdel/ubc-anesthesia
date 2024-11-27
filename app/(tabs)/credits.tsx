@@ -14,9 +14,9 @@ export default function CreditsScreen() {
       <ThemedText type="title" style={styles.title}>
         Credits
       </ThemedText>
-      <ThemedText type="subtitle" style={styles.madeWithText}>
+      {/* <ThemedText type="subtitle" style={styles.madeWithText}>
         Made with <Text style={styles.heart}>❤️</Text> by
-      </ThemedText>
+      </ThemedText> */}
 
       <View style={styles.creditContainer}>
         <ThemedText type="subtitle" style={styles.name}>
